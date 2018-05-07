@@ -20,7 +20,7 @@ social-email: aman8696.56@gmail.com # add your Email address
 discus-identifier: amansharma007-github-io # add your discus identifier
 
 # Tracker
-analytics: # Google Analytics
+analytics: UA-118748635-1 # Google Analytics
 
 # Build Settings
 markdown: kramdown
